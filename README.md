@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="vaulthaus-hackathon-2024" width="256"/>
+  <img src="logo.png" alt="vaulthaus-hackathon-2024" width="512"/>
 
   [![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
   [![Claude AI](https://img.shields.io/badge/Claude-3.5%20Sonnet-orange.svg)](https://www.anthropic.com/)
