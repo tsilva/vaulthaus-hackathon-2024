@@ -1,0 +1,10 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "vaulthaus-hackathon-2024"
+version = "0.1.0"
+description = "**🏥 AI-powered healthcare data quality pipeline that detects, damages, and heals data issues using Claude 🩺**"
+requires-python = ">=3.10"
+dependencies = []
